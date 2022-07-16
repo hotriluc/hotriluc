@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @hotriluc
 - 👀 I’m interested in Web development, 3D and animations
+
+- Technology that I use: 
+  front-end: React,react-router, Redux, HTML, CSS, SCSS, PUG, TailwindCSS
+  animations & 3D: react-spring, ThreeJS
+  back-end: NodeJS, MongoDB, ExpressJS, Ruby on Rails, PostgreSQL
+  ssr: NextJS
+  testing: Mocha, Chai, Jest
+  
 - 📫 How to reach me ...
 
 <!---
