@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hotriluc
 - 👀 I’m interested in Web development, 3D and animations
-- 🌱 I’m currently learning ThreeJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
